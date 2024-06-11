@@ -1,10 +1,10 @@
-package br.com.nutriweb.nutriweb;
+package br.com.nutriweb.NutriWeb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NutriwebApplicationTests {
+class NutriWebApplicationTests {
 
 	@Test
 	void contextLoads() {
